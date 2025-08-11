@@ -34,8 +34,6 @@ This repository contains all the work completed during my **Finlatics Business A
 
 ---
 
-**Certificate & LOR.**
-
 ## 📜 Certificate
 ![Finlatics Business Analyst Certificate](864844_certificate-1.png)
 
