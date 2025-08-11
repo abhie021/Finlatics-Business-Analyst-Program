@@ -41,5 +41,3 @@ This repository contains all the work completed during my **Finlatics Business A
 
 ## 📝 Letter of Recommendation
 ![Letter of Recommendation](864844_lor-1.png)
-
-
