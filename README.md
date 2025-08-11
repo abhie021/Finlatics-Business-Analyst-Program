@@ -38,9 +38,9 @@ This repository contains all the work completed during my **Finlatics Business A
 
 ## 📜 Certificate
 
-![Finlatics Business Analyst Certificate](864844_certificate.png)
+![Finlatics Business Analyst Certificate](864844_certificate.pdf)
 
 ## 📝 Letter of Recommendation
 
-![Letter of Recommendation](864844_lor.png)
+![Letter of Recommendation](864844_lor.pdf)
 
